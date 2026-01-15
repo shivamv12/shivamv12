@@ -89,15 +89,26 @@ I enjoy solving complex problems, improving developer experience, and building s
 ### ✍️ Sometimes I like to write things here ...
 
 [![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://shivamv12.medium.com/)
+[![Quora](https://img.shields.io/badge/Quora-B92B27?style=for-the-badge&logo=quora&logoColor=white)](https://www.quora.com/profile/Shivam-Verma-310/)
 [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/9246940/shivam-verma)
 
 ---
 
 ### 🚀 GitHub Stats
 
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shivamv12&theme=default" width="100%" />
+<p>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shivamv12&theme=default" width="49.5%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shivamv12&theme=default" width="49.5%" />
+</p>
+
+---
+
+<!--
+### 🚀 GitHub Stats
+
 <p>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shivamv12&theme=default" width="66.5%" />
-  <!-- Repos per language -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shivamv12&theme=default" width="32.5%" />
 </p>
 <p>
@@ -105,9 +116,9 @@ I enjoy solving complex problems, improving developer experience, and building s
   <img src="https://streak-stats.demolab.com?user=shivamv12" width="59.2%" />
 </p>
 
+-->
+
 <!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shivamv12) -->
 <!-- <img align="center" src="https://github-readme-stats.vercel.app/api?username=shivamv12&show_icons=true&theme=radical" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivamv12&theme=radical&layout=compact" />
 <img src="https://github-readme-stats.vercel.app/api?username=shivamv12&show_icons=true&theme=default" /> -->
-
----
