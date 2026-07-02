@@ -16,29 +16,28 @@ Here are some ideas to get you started:
 <h1 align="center"><img height="40" src="https://camo.githubusercontent.com/6bc659a07891421494f7b9fcc9d849feee45291dfdb693de0d3d029367fec633/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313533313834393433302f343234362f626c6f622d73756e676c61737365732e6769663f31353331383439343330" />&nbsp;Hey, Nice to see you!</h1>
 
 <p align="center">
-  Welcome to my GitHub page!<br/>I'm Shivam · Senior Fullstack Engineer from India. <!-- currently living in Stockholm, Sweden. -->
+  Welcome to my GitHub page!<br/>
+  I'm Shivam Verma, a Senior Software Engineer and Team Lead, from India. <!-- currently living in Stockholm, Sweden. -->
 </p>
 
 ---
 
 ### 👨🏻‍💻 Who I am
 
-Team Lead and Senior Software Engineer with 7+ years of experience building and scaling web applications.
+With 7+ years of experience, I have worked across the entire software development lifecycle—from designing backend services and REST APIs to architecting frontend platforms and leading engineering teams.
 
-I started my career in backend development and have been working primarily on the frontend for the past 3 years, which allows me to approach UI, performance, and architecture problems with a strong system-level mindset.
-
-I enjoy solving complex problems, improving developer experience, and building systems that scale in production.
+I enjoy solving complex engineering problems, modernizing legacy systems, building scalable software architectures, and continuously exploring AI-powered application development.
 
 ---
 
 ### 🧭 What I do
 
-- Design and build **scalable full-stack applications**, including frontend, backend, and APIs  
-- Develop and optimize **frontend applications** with React, TypeScript, and modern frameworks  
-- Build **backend services** with Node.js, NestJS, and database integration  
-- Implement **performance optimizations, caching, and efficient data flow** across the stack  
-- Write **clean, maintainable, and testable code**, enforce best practices, and conduct code reviews  
-- Collaborate on **system design, CI/CD pipelines, and production performance monitoring**
+- 🚀 Build scalable full-stack applications using React, Node.js, NestJS, and modern JavaScript technologies.
+- 🏗️ Design backend services, REST APIs, and modular application architectures.
+- ⚡ Optimize application performance through caching, asynchronous processing, and frontend performance techniques.
+- ☁️ Build cloud-integrated applications using AWS services and containerized deployments.
+- 🤝 Lead engineering teams, conduct code reviews, mentor developers, and drive technical discussions.
+- 🤖 Explore AI-powered applications, LLM integrations, and developer productivity tooling
 
 ---
 
